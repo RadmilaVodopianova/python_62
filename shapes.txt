@@ -1,0 +1,4 @@
+Square;10;20;5
+Rectangle;5;10;20;30
+Circle;50;50;15
+Ellipse;15;25;40;20
